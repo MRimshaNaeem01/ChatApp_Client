@@ -1,4 +1,12 @@
 *{
   margin: 0;
   padding: 0;
+
+}
+
+.cont{
+  background-color: hwb(255 78% 3% / 0.989);
+}
+.container{
+  background-color: #c5e1fc;
 }

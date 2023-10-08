@@ -11,7 +11,7 @@ import {
 
 function App() {
   return (
-    <div className="container-fluid bg-dark text-light d-flex justify-content-center align-items-center" style={{ height: "100vh" }}>
+    <div className="cont container-fluid  text-light d-flex justify-content-center align-items-center" style={{ height: "100vh" }}>
       <Router>
         <Routes>
           <Route index element={<MainForm />}></Route>
